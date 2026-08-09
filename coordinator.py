@@ -26,7 +26,7 @@ class CoordinateApp:
             pass
 
         self.root = tk.Tk()
-        self.root.title("Lead Engineer Tool v4.0")
+        self.root.title("Pixel Coordinator v1.0")
         
         try:
             self.root.iconbitmap(resource_path('app.ico'))
